@@ -1,0 +1,33 @@
+C:\Users\Admin\source\repos\Domino2\Domino2\bin\Debug\domino.txt
+C:\Users\Admin\source\repos\Domino2\Domino2\bin\Debug\Domino2.exe.config
+C:\Users\Admin\source\repos\Domino2\Domino2\bin\Debug\Domino2.exe
+C:\Users\Admin\source\repos\Domino2\Domino2\bin\Debug\Domino2.pdb
+C:\Users\Admin\source\repos\Domino2\Domino2\obj\Debug\Domino2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Domino2\Domino2\obj\Debug\Domino2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Domino2\Domino2\obj\Debug\Domino2.exe
+C:\Users\Admin\source\repos\Domino2\Domino2\obj\Debug\Domino2.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\bin\Debug\domino.txt
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\bin\Debug\Domino2.exe.config
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\bin\Debug\Domino2.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\bin\Debug\Domino2.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\obj\Debug\Domino2.csproj.AssemblyReference.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\obj\Debug\Domino2.csproj.CoreCompileInputs.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\obj\Debug\Domino2.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat\Domino2\Domino2\obj\Debug\Domino2.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\bin\Debug\domino.txt
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\bin\Debug\Domino2.exe.config
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\bin\Debug\Domino2.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\bin\Debug\Domino2.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\obj\Debug\Domino2.csproj.AssemblyReference.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\obj\Debug\Domino2.csproj.CoreCompileInputs.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\obj\Debug\Domino2.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\2022. 05. 25. - Órai, dominós, számonkéréses feladat Edittől\Domino2\Domino2\obj\Debug\Domino2.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\bin\Debug\domino.txt
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\bin\Debug\Domino2.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\bin\Debug\Domino2.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\bin\Debug\Domino2.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\obj\Debug\Domino2.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\obj\Debug\Domino2.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\obj\Debug\Domino2.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\obj\Debug\Domino2.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\071. Domino\Domino\Domino2\obj\Debug\Domino2.pdb
